@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of this project is to create various recipe pages that link to the root page. The objective is to practice committing to git and pushing the commits to github. I practiced commit messages and the importance of tracking every change with a commit.
